@@ -17,3 +17,13 @@ main{
 div{
     background-image:  radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(160,20,173,1) 100%);
 }
+
+#Photo-de-profil{
+    border: 10px solid magenta;
+    opacity: 0.9;
+}        
+
+#photo-de-profil:hover{
+    transition: 5s scale(1.1);
+
+}
