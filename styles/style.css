@@ -1,0 +1,17 @@
+
+table, tr, th, td {
+border: 1px solid;
+border-collapse: collapse;
+padding: 5px;
+}
+
+textarea{
+    font-family: Arial;
+}
+
+h1{
+    width: 125px;
+    color: #0000FF;
+    text-align: center;
+    font: italic bold 20px 'Courier New';
+}
