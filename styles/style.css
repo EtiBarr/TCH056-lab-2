@@ -30,3 +30,19 @@ div{
     transform: scale(1.1);
 
 }
+
+table>caption{
+    text-transform: uppercase;
+}
+
+.ind{
+    margin-left: 5%;
+}
+
+span{
+    font-style: italic;
+}   
+
+a.link:hover{
+    font-weight: bold;
+}
