@@ -6,7 +6,7 @@ padding: 5px;
 background-color: white;
 
 }
-tr:hover {background-color: black;}
+tr, td:hover {background-color: black;}
 
 textarea{
     font-family: Arial;
@@ -29,4 +29,7 @@ div{
 #Photo-de-profil:hover{
     transform: scale(1.1);
 
+}
+.ind{
+    margin-left: 5%;
 }
