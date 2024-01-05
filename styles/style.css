@@ -24,6 +24,6 @@ div{
 }        
 
 #photo-de-profil:hover{
-    transition: 5s scale(1.1);
+    transition: scale(1.1) 5s;
 
 }
