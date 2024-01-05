@@ -3,7 +3,11 @@ table, tr, th, td {
 border: 1px solid;
 border-collapse: collapse;
 padding: 5px;
+background-color: white;
+
 }
+
+tr:hover {background-color: black;}
 
 textarea{
     font-family: Arial;
