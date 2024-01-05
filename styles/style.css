@@ -21,7 +21,8 @@ div{
 #Photo-de-profil{
     border: 10px solid magenta;
     opacity: 0.9;
-}
+}        
+
 #Photo-de-profil:hover{
     transform: scale(1.1);
 
